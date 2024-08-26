@@ -1,4 +1,4 @@
-import getAllContacts from "./getAllContacts.js";
+import getAllContacts from './getAllFunc.js';
 import updateContacts from './updateContacts.js';
 
 export const removeLastContact = async () => {

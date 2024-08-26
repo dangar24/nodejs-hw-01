@@ -1,4 +1,4 @@
-import getAllContacts from "./getAllContacts.js";
+import getAllContacts from "./getAllFunc.js";
 
 export const countContacts = async () => {
     const contacts = await getAllContacts();
